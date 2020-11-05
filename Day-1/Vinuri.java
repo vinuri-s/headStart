@@ -27,7 +27,7 @@ public class Vinuri {
 	  
       if(flag) {
          System.out.println("This txt file contains the word - "+ word);
-		 System.out.println("Occurences : "+count);
+		 System.out.println("Occurences : "+count);//print the number of occurences of the relevant word
       } else {
          System.out.println("This txt file doesn't contain the word you entered:(");
       }
